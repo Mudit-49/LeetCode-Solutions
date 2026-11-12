@@ -59,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [2652-sum-multiples](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
