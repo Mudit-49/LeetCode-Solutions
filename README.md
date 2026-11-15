@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [2652-sum-multiples](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 ## Two Pointers
 |  |
