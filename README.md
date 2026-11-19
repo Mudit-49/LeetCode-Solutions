@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0242-valid-anagram](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
