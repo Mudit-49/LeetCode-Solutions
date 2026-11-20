@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 ## Two Pointers
 |  |
