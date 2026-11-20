@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [2652-sum-multiples](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0202-happy-number](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
