@@ -1,13 +1,12 @@
 class Solution {
 public:
     int countDigits(int num) {
-        int count = 0;
-        int x = num;
-        while (x != 0) {
-            if (!(num % (x % 10))) {
+        int count = 0, copy_var = num;
+        while (copy_var != 0) {
+            if (num % (copy_var % 10) == 0) {
                 count++;
             }
-            x /= 10;
+            copy_var /= 10;
         }
         return count;
     }
