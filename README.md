@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1672-richest-customer-wealth](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -94,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Mudit-49/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
